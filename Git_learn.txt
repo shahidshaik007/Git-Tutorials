@@ -3,3 +3,7 @@ git status
 git init
 git add .
 git commit -m "version 1"
+
+git config --global user.email "you@domain.com"
+git config --global user.name "Shaik Shaheed"
+git config --global user.email "shahid.shaik28@gmail.com"
